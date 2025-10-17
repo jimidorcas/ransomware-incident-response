@@ -76,4 +76,3 @@ Includes actionable recommendations for strengthening ransomware resilience.
 
 ---
 
-📌 *This project showcases practical incident response documentation and communication workflow essential to SOC and Cybersecurity Analyst roles.*
