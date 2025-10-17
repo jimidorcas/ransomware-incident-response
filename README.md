@@ -47,7 +47,7 @@ A detailed case study describing the **DarkVault ransomware** infection: initial
 
 ### 🛡️ Response Plan  
 [**incident_response_plan.md**](response-plan/incident_response_plan.md)  
-Step-by-step playbook outlining actions across all NIST phases — identification, containment, eradication, recovery, and lessons learned.
+Step-by-step playbook outlining actions across all NIST phases - identification, containment, eradication, recovery, and lessons learned.
 
 ---
 
