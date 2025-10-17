@@ -1,7 +1,7 @@
 # 💥 Ransomware Incident Response Scenario (DarkVault Case Study)
 
 ## 📘 Overview
-This project simulates a real-world **ransomware attack** to demonstrate the complete **incident response lifecycle** — from detection and containment to recovery and post-incident review.  
+This project simulates a real-world **ransomware attack** to demonstrate the complete **incident response lifecycle** - from detection and containment to recovery and post-incident review.  
 It aligns with the **NIST Incident Response Framework** and showcases structured technical and communication practices used in real security operations.
 
 ---
